@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/6941cf6b-bdcd-4605-b005-a4205b386b8b)# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
-
+# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models.
 # Date: 12/5/2025
 # Register no.:212222050002
 # Aim: 
